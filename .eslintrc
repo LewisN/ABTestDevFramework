@@ -1,0 +1,17 @@
+{
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true,
+    "jquery": true
+  },
+  "extends": "airbnb",
+  "plugins": [
+    "babel"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "babel/plugin-proposal-optional-chaining": 1
+  }
+}

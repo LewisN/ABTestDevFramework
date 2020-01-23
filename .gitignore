@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+.vscode
+**/package-lock.json
+**/dist/
+**/node_modules
+tags
+**/tags
+tags.lock
+tags.temp
+.nonsensicalx
+.env
+bin
